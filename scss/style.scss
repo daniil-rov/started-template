@@ -1,0 +1,17 @@
+//обнуляющий стиль
+@import '_null-style';
+
+//подключаем шрифты
+@import '_fonts';
+
+//подключаем формы
+@import '_forms';
+
+//
+@import '_header';
+@import '_footer';
+.big {
+	color: red;
+	
+}
+
